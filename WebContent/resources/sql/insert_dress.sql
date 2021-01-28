@@ -1,0 +1,1 @@
+INSERT INTO dress VALUES('P1235', '벨리 플라워 ops', 48000, '빈티지한 플라워 패턴과 색감의 포인트 원피스', 'Dress', 'Ellen', 1000, 'new', 'P1235.jpg');
