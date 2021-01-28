@@ -1,0 +1,1 @@
+INSERT INTO pants VALUES('P1236', '포지티브 ash denim', 28500, '깔끔한 스트레이트핏에 데일리한 색감의 팬츠', 'Pants', 'Ellen', 1000, 'new', 'P1236.jpg');

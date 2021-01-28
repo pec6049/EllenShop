@@ -1,0 +1,1 @@
+INSERT INTO outer_o VALUES('P1234', '엘렌 jk', 59000, '데일리하게 입기 좋은 캐주얼 아이템', 'Outer', 'Ellen', 1000, 'new', 'P1234.jpg');
