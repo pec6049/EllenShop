@@ -18,7 +18,7 @@ http://localhost:8080/WebMarket/welcome.jsp
 * JavaScript
 
 ## Ellen Shop
-![main](https://user-images.githubusercontent.com/78144748/106353160-ddbfa500-632b-11eb-90f8-a374eb0f523b.jpg)
+![Inkedellenshop_main_LI](https://user-images.githubusercontent.com/78144748/130358043-d777a9fb-320e-468f-bf2d-209b92887736.jpg)
 
 ## 주요기능
 ### 메인화면(top)
